@@ -12,7 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=paulclark2&show_icons=true&hide=["stars"])](https://github.com/anuraghazra/github-readme-stats)
-
-Source: https://github.com/anuraghazra/github-readme-stats
